@@ -1,4 +1,4 @@
-
+<img width="1120" alt="Screenshot 2024-02-20 024005" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/893158fe-723c-4bd6-a113-7e29d1dd94c4">
 <h1 style="text-align:center;" align="center"><img width="425" alt="image" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/20cb224a-2e23-4f53-accd-49e009f47b79">
 </h4>
 <p>This is suppose to be description</p>
@@ -40,20 +40,28 @@ Nest is comprised of five smart contracts, each serving a specific purpose withi
 ### Selecting a theme for your community
 <img width="1120" alt="Screenshot 2024-02-19 194622" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/f0fc1823-9575-4bc2-8553-3d2514527004">
 
-
 ### Inviting New members to community 
 <img width="1120" alt="Screenshot 2024-02-20 020334" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/68b218be-1a67-4b98-a9c6-f51096e352a8">
 
 ### Adding new network
 <img width="1120" alt="Screenshot 2024-02-20 020515" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/6a5615cd-8df0-4136-99e1-9f7898d80700">
 
+### Active Community 
+<img width="1120" alt="Screenshot 2024-02-20 023951" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/a5f9fcb4-ec86-469f-aacd-8ab425f10edd">
+
+
 ### Your Community Info
-<img width="1119" alt="Screenshot 2024-02-20 020554" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/46571e4a-504d-4283-8713-eb21fbb6889a">
+<img width="1120" alt="Screenshot 2024-02-20 024005" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/eef51abc-4a0c-4a54-a17b-f9c6a1936821">
 
 
-<img width="1120" alt="Screenshot 2024-02-19 230908" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/7c9e0eed-532a-4871-b6ac-03d582ec58f2">
-<img width="1120" alt="Screenshot 2024-02-19 230511" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/db39c050-7fcc-4006-84ce-eaadbec3289b">
+### Another Theme
 <img width="1120" alt="Screenshot 2024-02-19 230501" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/1f8f66eb-b406-4b52-9ebb-003a2b3c833d">
+
+### Community Info
+<img width="1120" alt="Screenshot 2024-02-19 230908" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/7c9e0eed-532a-4871-b6ac-03d582ec58f2">
+
+### Share post with others
+<img width="1120" alt="Screenshot 2024-02-19 230511" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/db39c050-7fcc-4006-84ce-eaadbec3289b">
 
 
 ### Another theme
