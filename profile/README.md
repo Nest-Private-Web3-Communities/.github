@@ -1,4 +1,3 @@
-<img width="1120" alt="Screenshot 2024-02-20 024005" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/893158fe-723c-4bd6-a113-7e29d1dd94c4">
 <h1 style="text-align:center;" align="center"><img width="425" alt="image" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/20cb224a-2e23-4f53-accd-49e009f47b79">
 </h4>
 <p>This is suppose to be description</p>
