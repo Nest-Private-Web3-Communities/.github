@@ -1,22 +1,30 @@
-<h1 style="text-align:center;" align="center"><img width="425" alt="image" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/20cb224a-2e23-4f53-accd-49e009f47b79">
-</h4>
-<p>This is suppose to be description</p>
+## Inspiration
 
-## What it Does
+Managing communities has perpetually posed challenges, particularly in achieving complete security and completely custom tailor made solutions. Traditional Web2 solutions face issues of centralization and security, while transitioning to Web3 often triggers privacy concerns due to the public exposure of data. "Nest" steps in to offer a user-friendly interface, drawing inspiration from popular apps like Telegram, Discord, and WhatsApp. It facilitates the creation, management, and participation in communities through a private, fully encrypted, and completely decentralized platform.
 
-## How we built it
+## What it does
+The platform offers seamless community creation, requiring only a Nest account for identification across all Nest communities, linked to your address. Users have the freedom to create and join communities, each boasting full customization options. From color themes to emojis and reactions, every aspect can be tailored to suit the community's vibe. Additionally, users can establish networks within these communities, akin to Discord's channels within servers. All standard social media functionalities, such as posts, image sharing, comments, and reactions, are seamlessly integrated into the platform. When you create a community, it's a contract which is deployed and owned by you. Nest steps is for user authentication and collaboration amongst communities.
 
-Nest is comprised of five smart contracts, each serving a specific purpose within the platform:
+## How it works
+![18dc576066560c59226b242492984275](https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/735ee7a5-f09a-47ed-a8af-87c303ecb2a8)
 
-- [ ] **XYZ**:  Edit this
+The key exchange protocol is an asynchronous slightly modified version of the Diffie Hellman Key Exchange protocol adapted for multi party exchange. To Learn Further -> [How Nest Encryption Works](https://www.youtube.com/watch?v=WqT1THswinI&t=380s)
 
-- [ ] **XYZ**: Edit this 
+## What's next for Nest
+- [ ] **Monetization** : We aim to add a financial incentive for all nest community participants by using SocialFi principles. We plan to add a "Award" feature which will function similar to the current "reaction" feature but will be payable and can act as a tip for people who generate valuable content for a community. We also wish to explore further monetization methods and possibilities.
 
-## Challenges we ran into
+- [ ] **Messaging** : Throughout the demo and the video you might have noticed the "Coming Soon" text indicating that the messaging feature is a Work In Progress, though we were aiming to complete this feature within the hackathon timeline, since we could not it is the next priority which we have, to get those messages working.
 
-## What we learned 
+- [ ] **Community Aggregation / Collaboration** : This was planned initially but we reckoned it was out of scope for the hackathon timeline. This feature will allow communities to share their content (as a directed graph) with each other and thus communities can fetch content from other communities and new posts within the "sharing" communities will appear in the communities with which the content is being "shared".
 
-## Run Locally
+- [ ] **Web2 plugins** : We aimed to incorporate chainlink functions to fetch and serialize data from web2 social media platforms like reddit and add relevant data (for eg: from a subreddit) to a Nest community. This will be done as a batch job using Chainlink functions.
+
+## Learnings and Challenges
+- The web client is developed using React, viem, Particle Connect, and TailwindCss.
+- The smart contracts are written in Solidity
+- Developing a mathematical model for key exchange and asynchronous and private encryption was interesting and challenging but eventually accomplished.
+- We discovered the enjoyable aspects of mathematics especially in Cryptography & Network security.
+- We improved our team Collaboration and Optimization skills
 
 ## ScreenShots
 
