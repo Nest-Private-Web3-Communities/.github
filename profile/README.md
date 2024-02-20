@@ -70,11 +70,11 @@ Nest is comprised of five smart contracts, each serving a specific purpose withi
 <img width="1120" alt="Screenshot 2024-02-20 123312" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/ba72163f-6115-4b8c-a058-9140eead6c39">
 
 ### Another Community on Nest
+<img width="1120" alt="Screenshot 2024-02-19 234535" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/aba490a8-23cc-46fd-a861-e39892a0930a">
+
+### Another Community on Nest
 <img width="1120" alt="Screenshot 2024-02-20 103701" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/8e4ea103-1098-4846-a4d8-0a333ebc1f95">
 
 ### Add Comment to post
 <img width="1120" alt="Screenshot 2024-02-20 131353" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/4c8804f2-5550-4d5f-9c80-dae094283df0">
-
-### Another Community on Nest
-<img width="1120" alt="Screenshot 2024-02-19 234535" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/aba490a8-23cc-46fd-a861-e39892a0930a">
 
