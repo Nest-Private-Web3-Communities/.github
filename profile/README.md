@@ -45,15 +45,13 @@ Nest is comprised of five smart contracts, each serving a specific purpose withi
 ### Adding new network
 <img width="1120" alt="Screenshot 2024-02-20 020515" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/6a5615cd-8df0-4136-99e1-9f7898d80700">
 
-### Active Community 
+### Community on Nest
 <img width="1120" alt="Screenshot 2024-02-20 023951" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/a5f9fcb4-ec86-469f-aacd-8ab425f10edd">
-
 
 ### Your Community Info
 <img width="1120" alt="Screenshot 2024-02-20 024005" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/eef51abc-4a0c-4a54-a17b-f9c6a1936821">
 
-
-### Another Theme
+### Another Community on Nest
 <img width="1120" alt="Screenshot 2024-02-19 230501" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/1f8f66eb-b406-4b52-9ebb-003a2b3c833d">
 
 ### Community Info
@@ -62,7 +60,15 @@ Nest is comprised of five smart contracts, each serving a specific purpose withi
 ### Share post with others
 <img width="1120" alt="Screenshot 2024-02-19 230511" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/db39c050-7fcc-4006-84ce-eaadbec3289b">
 
+### Another Community on Nest
+<img width="1120" alt="Screenshot 2024-02-20 124312" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/b1f09fcf-9ae3-44bd-a194-692f4058e12f">
 
-### Another theme
+### Comment on posts
+<img width="1120" alt="Screenshot 2024-02-20 124507" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/a372e7f0-c30a-4f15-9dd1-b61779bd6fbe">
+
+### Add a new network
+<img width="1120" alt="Screenshot 2024-02-20 123312" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/ba72163f-6115-4b8c-a058-9140eead6c39">
+
+### Another Community on Nest
 <img width="1120" alt="Screenshot 2024-02-19 234535" src="https://github.com/Nest-Private-Web3-Communities/.github/assets/96080203/aba490a8-23cc-46fd-a861-e39892a0930a">
 
